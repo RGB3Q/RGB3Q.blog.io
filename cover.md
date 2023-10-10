@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon2.svg)
+![logo](media/icon2.svg)
 
 # **Reservoir** <small> of RGB3Q</small>
 
